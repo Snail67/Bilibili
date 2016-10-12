@@ -1,0 +1,25 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'Bilibili' do
+
+    pod 'Masonry'
+    
+    pod 'SDWebImage'
+    
+    pod 'MBProgressHUD'
+    
+    pod 'AFNetworking'
+    
+    pod 'MJExtension'
+
+    pod 'ReactiveCocoa'
+
+    pod  'SwipeBack'
+    
+
+    pod 'XMLDictionary'
+
+end
+

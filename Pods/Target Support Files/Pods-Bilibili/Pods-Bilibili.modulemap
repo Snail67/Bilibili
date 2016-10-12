@@ -1,0 +1,6 @@
+framework module Pods_Bilibili {
+  umbrella header "Pods-Bilibili-umbrella.h"
+
+  export *
+  module * { export * }
+}
